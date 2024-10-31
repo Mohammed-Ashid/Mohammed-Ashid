@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'am a rare blend of science and tech—someone who can discuss the mysteries of the universe and build the tech to explore them!<br>Currently working in Machine Learning, AI ,Full stack Development(React, Node.js, Django)and ERP tools(JDE
+I'am a rare blend of science and tech—someone who can discuss the mysteries of the universe and build the tech to explore them!<br>Currently working in Machine Learning, AI ,Full stack Development(React, Node.js, Django)and ERP tools(JDE)
 
 
 ## 🌐 Socials:
